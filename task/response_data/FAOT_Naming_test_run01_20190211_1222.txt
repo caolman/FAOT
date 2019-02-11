@@ -1,0 +1,8 @@
+image number,response,reaction time
+/Users/caolman/Desktop/Projects/PENS/FAOT/FAOT.git/task/stimuli/img0008.png,pigeon,3.585
+/Users/caolman/Desktop/Projects/PENS/FAOT/FAOT.git/task/stimuli/img0084.png,deer,1.603
+/Users/caolman/Desktop/Projects/PENS/FAOT/FAOT.git/task/stimuli/img0022.png,thumbtack,3.401
+/Users/caolman/Desktop/Projects/PENS/FAOT/FAOT.git/task/stimuli/img0088.png,key,1.552
+/Users/caolman/Desktop/Projects/PENS/FAOT/FAOT.git/task/stimuli/img0030.png,,3.351
+/Users/caolman/Desktop/Projects/PENS/FAOT/FAOT.git/task/stimuli/img0069.png,chair,1.450
+/Users/caolman/Desktop/Projects/PENS/FAOT/FAOT.git/task/stimuli/img0072.png,hawk,2.885
